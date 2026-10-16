@@ -1,0 +1,12 @@
+/* Your visual refinements. Edit this in the editor's Appearance section.
+   Example: :root { --accent: #0879b3; }
+*/
+.post-body img { max-width: 100%; height: auto; border-radius: 12px; }
+.post-body { overflow-wrap: anywhere; }
+.image-dialog { max-height: 92dvh; overflow: auto; }
+.image-dialog img { max-height: none; width: auto; max-width: 100%; }
+.image-dialog .icon-button { position: sticky; top: 0; background: white; }
+@media print { .no-print { display: none !important; } }
+.activity-meta { color: var(--accent); font-size: 11px; margin-bottom: 7px; }
+.activity-list > li { scroll-margin-top: 110px; }
+.activity-list .small-button { display: inline-flex; align-items: center; gap: 5px; margin-top: 9px; }
