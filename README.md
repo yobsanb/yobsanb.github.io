@@ -1,3 +1,3 @@
 # Yobsan Bayisa Leta
 
-Academic portfolio: https://yobsanb.github.io/
+Academic portfolio: https://yobsan.pages.dev/

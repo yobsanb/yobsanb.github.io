@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yobsanb.github.io/sitemap.xml
+Sitemap: https://yobsan.pages.dev/sitemap.xml
